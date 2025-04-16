@@ -1,0 +1,23 @@
+BODY{
+    background-color: whitesmoke;
+    text-align: center;
+    
+    
+}
+#one{
+    text-align: center;
+    color: blue;
+}
+.two{
+    text-align: center;
+    color:black;
+    BORDER:5PX SOLID BLACK;
+}
+.four{
+    color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.my{
+    font-size: 20px;
+    color: red;
+}
